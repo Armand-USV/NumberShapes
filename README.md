@@ -1,9 +1,7 @@
 # NumberShapes
 
-Aplicatie ce verifica daca un numar este patratic , triunghiular sau ambele.
+Application that checks if a number is square, triangular or both.
 
-Aplicatia este creata pe versiunea de Android Oreo 8.1 (API 27).
-Am folosit un editText in care se pot introduce doar numere , un label care contine un mesaj sugestiv si un buton prin care se vaface verificarea.
-Am folosit doua clase : 
-- MainActivity unde am realizat functionalitatea butonului de verificare 
-- Number unde am creat functiile ce verifica daca numarul este patratic sau triunghiular.
+The application is created on Android Oreo 8.1 (API 27). I used an editText in which only numbers can be entered, a label that contains a suggestive message and a button to check. I used two classes:
+  - MainActivity where we realized the functionality of the check button
+  - Number where we created the functions that check if the number is square or triangular.
